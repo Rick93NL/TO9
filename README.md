@@ -5,5 +5,5 @@ Setting Unity3D up along with this git repository:
 3). Save the Unity3D project, close Unity3D
 4). Open Git Bash, change directory to the Unity3D project you've just created
 5). 'git init'
-6). git remote add https://github.com/Rick93NL/TO9.git
+6). git remote add origin https://github.com/Rick93NL/TO9.git
 7). git pull origin master
